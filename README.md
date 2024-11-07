@@ -1,7 +1,7 @@
 # JWT-Basics
 
 ## Descripción
-Pequeña API para el entendimiento de funcionalidades básicas de JasonWebToken (JWT). Construida en Node.js pero a diferencia del [users_management](https://github.com/tu_usuario/tu_repositorio) subido anteriormente al repositorio, sin base de datos ya que el objeto de esta app fue aprender mejor las funcionalidades básicas de JWT, para restringir accesos a través de tokens y su respectivo manejo de errores, cubriendo cada uno con la ayuda de http-status-codes para practicidad.
+Pequeña API para el entendimiento de funcionalidades básicas de JasonWebToken (JWT). Construida en Node.js pero a diferencia del [users_management](https://github.com/DiegoBottegoni/user_management) subido anteriormente al repositorio, sin base de datos ya que el objeto de esta app fue aprender mejor las funcionalidades básicas de JWT, para restringir accesos a través de tokens y su respectivo manejo de errores, cubriendo cada uno con la ayuda de http-status-codes para practicidad.
 JWT-Basics cuenta con un template front-end que no es de mi autoría pero resutla extremadamente útil y productiva para probar la API.
 
 ## Tecnologías utilizadas
